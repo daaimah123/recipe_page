@@ -1,0 +1,11 @@
+Basic Requirements
+----
+- Create an HTML file
+- Code the basic HTML structure
+- Add the title of the recipe
+- Add a brief background or blurb about the recipe
+- Add an unordered list of ingredients
+- Add an ordered list of the steps required to make the dish
+- Add at least one image
+- Add links to similar recipes you found online
+- Wrap each section in `<div>` tags
