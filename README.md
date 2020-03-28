@@ -1,4 +1,4 @@
-Basic Requirements
+HTML Basic Requirements
 ----
 - Create an HTML file
 - Code the basic HTML structure
@@ -9,3 +9,14 @@ Basic Requirements
 - Add at least one image
 - Add links to similar recipes you found online
 - Wrap each section in `<div>` tags
+
+Basic Requirements
+----
+- Create a file tree for your Recipe Page project
+- Create a CSS file in the proper directory of your file tree
+- Link to your CSS file from within your HTML `<head>` tags
+- Change the background color of your webpage
+- Change the font and font color of your headings and paragraphs
+- Constrain the description to the width of the image
+- Make the image and ingredients appear on the left
+- Make the instructions appear on the right
